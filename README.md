@@ -1,0 +1,1 @@
+A code sample for a publishing system designed to process e-commerce orders and send to a remote warehouse via FTP.
